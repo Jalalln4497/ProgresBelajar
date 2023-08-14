@@ -12,6 +12,5 @@ Pengalaman belajar di Dicoding Academy selama Kampus Merdeka
 * coba-coba
 * coba2
 * coba3
-* coba4
 
 
